@@ -1,0 +1,7 @@
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe.config
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.pdb
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.AssemblyReference.cache
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.exe
+C:\Users\DELL XPS\Documents\Proyectos Programacion\Nueva carpeta\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.pdb
